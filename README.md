@@ -1,4 +1,4 @@
-# 🎮 GAMECLAIM-
+# 🎮 GAMECLAIM
 **Stay Ahead, Unlock Free Games Instantly**  
 A Discord bot to track and alert free game promotions from Epic Games and Steam.
 
